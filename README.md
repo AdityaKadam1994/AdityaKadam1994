@@ -1,8 +1,7 @@
 ### Hello! I am [Aditya] (https://adityakadam1994.github.io/) and I am an UI enthusiast.
 
-<img src="../images/coding_desk.gif"/>
+<img src="/images/coding_desk.gif"/>
 <!-- **AdityaKadam1994/AdityaKadam1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my coding skills
